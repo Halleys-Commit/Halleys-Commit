@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Halleys-Commit/Halleys-Commit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Halley's Commit
 
-Here are some ideas to get you started:
+I build signal processing pipelines and ML models for physiological 
+and neural data. Also dabble in algo trading and the occasional game.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+
+- **Biosignal processing** — EEG, heart rate, respiration, eye-tracking
+- **ML for physiological data** — cognitive state classification, behavioral prediction
+- **Algo trading** — quantitative strategies, market data pipelines
+- **Neuroscience tooling** — whatever the current rabbit hole is
+
+## Stack
+
+Python • NumPy • SciPy • MNE • scikit-learn • pandas • matplotlib
