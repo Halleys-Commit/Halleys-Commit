@@ -1,38 +1,39 @@
 ## Computational Neuroscience × Data Science
 
-Research-grade signal processing, machine learning, and drug safety analytics — from synaptic electrophysiology to real-time biosignal APIs.
+I build research-grade pipelines and models at the intersection of neural signal processing,
+machine learning, and biomedical data science. The work spans offline analysis to deployed
+real-time systems, and leans toward problems where rigorous methodology and clinical or
+translational relevance overlap.
 
 ---
 
-### Research areas
+### Areas of focus
 
-**Neurotech / BCI**
-Cross-subject EEG motor imagery decoding (Riemannian geometry, Euclidean Alignment, EEGNet), transfer learning and Reptile meta-learning for calibration-efficient BCIs, within-subject personalization pipelines.
+**Neurotech & BCI**
+EEG decoding, brain-computer interfaces, and the signal processing infrastructure that
+makes them work across people and hardware. Interested in cross-subject generalization,
+calibration efficiency, and the gap between lab performance and usable systems.
 
 **Drug safety & pharmacogenomics**
-Disproportionality analysis (ROR/PRR/EBGM) on FDA FAERS adverse event reports, pharmacogenomic signal enrichment via PharmGKB cross-referencing, evidence-graded convergence scoring for genotype-dependent adverse events.
+Signal detection in large-scale adverse event databases, pharmacogenomic stratification,
+and the evidence chains that connect population-level safety signals to individual
+genetic risk.
 
-**Real-time biosignal systems**
-Live physiological signal ingestion and processing via REST API. Open-source multimodal pipeline covering EEG, HRV, respiration, and eye-tracking for cognitive state classification from wearable devices.
+**Real-time physiological systems**
+Live acquisition, processing, and inference on multimodal biosignals — EEG, HRV,
+respiration, eye-tracking. Building tools that work outside the lab, on wearable hardware,
+in real time.
 
-**Computational neuroscience**
-Hippocampal CA1 circuit electrophysiology, synaptic property analysis, and morphology clustering from wet-lab recordings.
-
-**Deep learning fundamentals**
-Neural networks built from first principles — hand-derived backpropagation proven equivalent to PyTorch autograd to float precision, with a live browser visualizer of the same network training in real time.
+**Computational & circuit neuroscience**
+Electrophysiology analysis, morphology, and synaptic property characterization from
+wet-lab recordings. The bench-to-code side of neuroscience.
 
 ---
 
 ### Stack
 
-| Area | Tools |
-|---|---|
-| Core ML | Python · PyTorch · NumPy · SciPy · scikit-learn · pandas |
-| Signal & neuro | MNE · pyRiemann · braindecode · statsmodels |
-| APIs & web | REST · Python · JavaScript |
-| Viz | matplotlib · seaborn · Jupyter |
+Python · PyTorch · NumPy · SciPy · MNE · scikit-learn · pandas · JavaScript · REST APIs
 
 ---
 
-### All projects are reproducible
-Data pipelines pull from public sources (PhysioNet, FDA FAERS, PharmGKB). No proprietary data required to run anything.
+All projects use public data sources. Everything is reproducible from scratch.
