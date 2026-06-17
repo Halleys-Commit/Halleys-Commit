@@ -32,7 +32,7 @@ wet-lab recordings. The bench-to-code side of neuroscience.
 
 ### Stack
 
-Python · PyTorch · NumPy · SciPy · MNE · scikit-learn · pandas · JavaScript · REST APIs
+Python · PyTorch · NumPy · SciPy · MNE · scikit-learn · pandas · EEGnet · deep learning · JavaScript · REST APIs
 
 ---
 
